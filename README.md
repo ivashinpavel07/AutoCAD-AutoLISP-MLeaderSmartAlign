@@ -17,6 +17,14 @@
 
 ---
 
+## 📦 Скачать
+
+➡️ **[MLeaderSmartAlign v0.5 — скачать MLeaderSmartAlign_v05.lsp](https://github.com/ivashinpavel07/AutoCAD-AutoLISP-MLeaderSmartAlign/releases/download/v0.5/MLeaderSmartAlign_v05.lsp)**
+
+[Все релизы](https://github.com/ivashinpavel07/AutoCAD-AutoLISP-MLeaderSmartAlign/releases)
+
+---
+
 # 🇷🇺 Русская версия
 
 ## 🧩 О проекте
